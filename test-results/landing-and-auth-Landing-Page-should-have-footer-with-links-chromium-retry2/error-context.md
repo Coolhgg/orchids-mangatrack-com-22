@@ -1,0 +1,426 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Scene navigation" [ref=e6]:
+      - button "Go to Start" [ref=e7] [cursor=pointer]:
+        - generic [ref=e8]: Start
+      - button "Go to Problem" [ref=e11] [cursor=pointer]:
+        - generic [ref=e12]: Problem
+      - button "Go to Library" [ref=e14] [cursor=pointer]:
+        - generic [ref=e15]: Library
+      - button "Go to Updates" [ref=e17] [cursor=pointer]:
+        - generic [ref=e18]: Updates
+      - button "Go to Discover" [ref=e20] [cursor=pointer]:
+        - generic [ref=e21]: Discover
+      - button "Go to Join" [ref=e23] [cursor=pointer]:
+        - generic [ref=e24]: Join
+    - button "Skip to signup" [ref=e26] [cursor=pointer]:
+      - generic [ref=e27]: Skip to signup
+      - img [ref=e28]
+    - main [ref=e30]:
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - img "One Piece" [ref=e36]
+            - img "Jujutsu Kaisen" [ref=e38]
+            - img "Chainsaw Man" [ref=e40]
+          - generic [ref=e41]:
+            - img "Spy x Family" [ref=e43]
+            - img "Frieren" [ref=e45]
+            - img "Dandadan" [ref=e47]
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e51]: Track 50,000+ manga series
+            - heading "Every Series. One Tracker." [level=1] [ref=e53]:
+              - generic [ref=e54]: Every Series.
+              - text: One Tracker.
+            - paragraph [ref=e55]: Track manga across official sources and your own custom links. Never lose your place again.
+            - generic [ref=e56]:
+              - link "Start Reading Free" [ref=e57] [cursor=pointer]:
+                - /url: /register
+                - generic [ref=e58]: Start Reading Free
+                - img [ref=e59]
+              - link "Sign In" [ref=e61] [cursor=pointer]:
+                - /url: /login
+                - generic [ref=e62]: Sign In
+            - generic [ref=e63]:
+              - generic [ref=e64]:
+                - generic [ref=e66]: B
+                - generic [ref=e68]: C
+                - generic [ref=e70]: D
+                - generic [ref=e72]: E
+                - generic [ref=e74]: F
+              - generic [ref=e75]:
+                - generic [ref=e76]: 12,000+
+                - generic [ref=e77]: Active readers
+              - generic [ref=e79]:
+                - generic [ref=e80]: "4.9"
+                - generic [ref=e82]: ★★★★★
+          - generic [ref=e84]:
+            - generic [ref=e86]:
+              - generic [ref=e87]:
+                - img [ref=e89]
+                - generic [ref=e91]:
+                  - generic [ref=e92]: Your Library
+                  - generic [ref=e93]: 3 series reading
+                - generic [ref=e94]: 2 new chapters
+              - generic [ref=e95]:
+                - generic [ref=e96]:
+                  - img "One Piece" [ref=e98]
+                  - generic [ref=e99]: "3"
+                  - paragraph [ref=e100]: One Piece
+                - generic [ref=e101]:
+                  - img "Jujutsu Kaisen" [ref=e103]
+                  - generic [ref=e104]: "1"
+                  - paragraph [ref=e105]: Jujutsu Kaisen
+                - generic [ref=e106]:
+                  - img "Chainsaw Man" [ref=e108]
+                  - generic [ref=e109]: "2"
+                  - paragraph [ref=e110]: Chainsaw Man
+              - generic [ref=e111]:
+                - generic [ref=e114]:
+                  - generic [ref=e115]: Continue Reading
+                  - generic [ref=e116]: Chapter 1089
+                - img [ref=e117]
+            - generic [ref=e120]:
+              - img [ref=e122]
+              - generic [ref=e124]:
+                - generic [ref=e125]: Auto-synced
+                - generic [ref=e126]: All devices
+            - generic [ref=e128]:
+              - img [ref=e130]
+              - generic [ref=e132]:
+                - generic [ref=e133]: New chapter!
+                - generic [ref=e134]: 2 min ago
+        - generic [ref=e136]: Scroll to explore
+      - generic [ref=e142]:
+        - img "One Piece" [ref=e145]
+        - img "Jujutsu Kaisen" [ref=e148]
+        - img "Chainsaw Man" [ref=e151]
+        - img "Spy x Family" [ref=e154]
+        - generic [ref=e156]: VIZ
+        - generic [ref=e159]: WEBTOON
+        - generic [ref=e162]: MangaPlus
+        - generic [ref=e165]: Crunchyroll
+        - generic [ref=e168]: Tapas
+        - generic [ref=e171]: Tappytoon
+        - generic [ref=e174]: Lezhin
+        - generic [ref=e177]: Toomics
+        - generic [ref=e180]: Which chapter was I on...?
+        - generic [ref=e183]: Did I read this already?
+        - generic [ref=e186]: Where did I stop?!
+        - generic [ref=e189]: Too many apps!
+        - generic [ref=e192]:
+          - generic [ref=e195]: 😵
+          - img [ref=e197]
+        - generic [ref=e199]:
+          - heading "50 series. 8 apps. Zero sync." [level=2] [ref=e200]
+          - paragraph [ref=e201]: Sound familiar? You're not alone.
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e207]:
+            - generic [ref=e208]: 😌
+            - generic [ref=e209]: Finally organized!
+          - heading "One Library. Every Source." [level=2] [ref=e210]
+          - paragraph [ref=e211]: All your manga, perfectly organized in one place
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - img [ref=e217]
+              - generic [ref=e219]:
+                - heading "Your Library" [level=3] [ref=e220]
+                - paragraph [ref=e221]: 8 series • 3 sources synced
+            - generic [ref=e222]:
+              - button "Reading" [ref=e223] [cursor=pointer]
+              - button "Plan" [ref=e224] [cursor=pointer]
+              - button "Done" [ref=e225] [cursor=pointer]
+          - generic [ref=e226]:
+            - generic [ref=e228]:
+              - img "One Piece" [ref=e229]
+              - generic [ref=e231]:
+                - paragraph [ref=e232]: One Piece
+                - paragraph [ref=e233]: Ch. 1089
+              - img [ref=e236]
+            - generic [ref=e242]:
+              - img "Jujutsu Kaisen" [ref=e243]
+              - generic [ref=e245]:
+                - paragraph [ref=e246]: Jujutsu Kaisen
+                - paragraph [ref=e247]: Ch. 236
+              - img [ref=e250]
+            - generic [ref=e255]:
+              - img "Chainsaw Man" [ref=e256]
+              - generic [ref=e258]:
+                - paragraph [ref=e259]: Chainsaw Man
+                - paragraph [ref=e260]: Ch. 152
+              - img [ref=e263]
+            - generic [ref=e269]:
+              - img "Spy x Family" [ref=e270]
+              - generic [ref=e272]:
+                - paragraph [ref=e273]: Spy x Family
+                - paragraph [ref=e274]: Ch. 84
+              - img [ref=e277]
+            - generic [ref=e283]:
+              - img "Frieren" [ref=e284]
+              - generic [ref=e286]:
+                - paragraph [ref=e287]: Frieren
+                - paragraph [ref=e288]: Ch. 120
+              - img [ref=e291]
+            - generic [ref=e297]:
+              - img "Dandadan" [ref=e298]
+              - generic [ref=e300]:
+                - paragraph [ref=e301]: Dandadan
+                - paragraph [ref=e302]: Ch. 98
+              - img [ref=e305]
+            - generic [ref=e311]:
+              - img "Blue Lock" [ref=e312]
+              - generic [ref=e314]:
+                - paragraph [ref=e315]: Blue Lock
+                - paragraph [ref=e316]: Ch. 245
+              - img [ref=e319]
+            - generic [ref=e325]:
+              - img "Kaiju No. 8" [ref=e326]
+              - generic [ref=e328]:
+                - paragraph [ref=e329]: Kaiju No. 8
+                - paragraph [ref=e330]: Ch. 98
+              - img [ref=e333]
+          - generic [ref=e338]:
+            - generic [ref=e339]:
+              - generic [ref=e340]:
+                - img [ref=e341]
+                - generic [ref=e344]: 6 reading
+              - generic [ref=e345]:
+                - img [ref=e346]
+                - generic [ref=e348]: 1 completed
+              - generic [ref=e349]:
+                - img [ref=e350]
+                - generic [ref=e352]: 1 favorite
+            - paragraph [ref=e353]: Auto-synced from MangaPlus, VIZ, WEBTOON
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - img [ref=e356]
+            - generic [ref=e358]: Track across sources
+          - generic [ref=e359]:
+            - img [ref=e360]
+            - generic [ref=e362]: Auto-sync progress
+          - generic [ref=e363]:
+            - img [ref=e364]
+            - generic [ref=e366]: Never lose your place
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - heading "We find updates. You choose the source." [level=2] [ref=e372]
+          - paragraph [ref=e373]: Official APIs + your custom links
+        - generic [ref=e378]:
+          - generic [ref=e379]:
+            - img [ref=e381]
+            - generic [ref=e384]: "1"
+          - generic [ref=e385]:
+            - paragraph [ref=e386]: New Chapter Available!
+            - paragraph [ref=e387]: Solo Leveling • Ch. 180
+        - generic [ref=e389]:
+          - generic [ref=e391]:
+            - img "Solo Leveling" [ref=e393]
+            - generic [ref=e394]:
+              - generic [ref=e395]:
+                - img [ref=e397]
+                - paragraph [ref=e399]: "Solo Leveling: Chapter 180"
+              - paragraph [ref=e400]: 3 sources available
+          - generic [ref=e401]:
+            - generic [ref=e402]:
+              - generic [ref=e405]:
+                - generic [ref=e406]:
+                  - paragraph [ref=e407]: MangaPlus
+                  - img [ref=e408]
+                - paragraph [ref=e411]: Official
+              - button "Read" [ref=e412] [cursor=pointer]:
+                - text: Read
+                - img [ref=e413]
+            - generic [ref=e417]:
+              - generic [ref=e420]:
+                - generic [ref=e421]:
+                  - paragraph [ref=e422]: VIZ Media
+                  - img [ref=e423]
+                - paragraph [ref=e426]: Official
+              - button "Read" [ref=e427] [cursor=pointer]:
+                - text: Read
+                - img [ref=e428]
+            - generic [ref=e432]:
+              - generic [ref=e435]:
+                - paragraph [ref=e437]: Your Link
+                - paragraph [ref=e438]: Custom
+              - button "Read" [ref=e439] [cursor=pointer]:
+                - text: Read
+                - img [ref=e440]
+          - generic [ref=e444]:
+            - generic [ref=e445]:
+              - img [ref=e446]
+              - generic [ref=e447]: Add Custom Source
+            - generic [ref=e448]:
+              - img [ref=e450]
+              - button "Add" [ref=e454] [cursor=pointer]
+        - generic [ref=e456]: Your source, your rules! 💪
+      - generic [ref=e461]:
+        - generic [ref=e462]:
+          - generic [ref=e463]:
+            - img [ref=e464]
+            - generic [ref=e466]: AI-Powered Recommendations
+          - heading "Find your next obsession." [level=2] [ref=e467]
+          - paragraph [ref=e468]: Personalized picks based on your reading history
+        - generic [ref=e469]:
+          - generic [ref=e470]:
+            - generic [ref=e472]: 🤩
+            - generic [ref=e474]: Try this!
+          - generic [ref=e476]:
+            - generic [ref=e478]:
+              - generic [ref=e479]:
+                - img "Frieren" [ref=e480]
+                - generic [ref=e483]: 98%
+                - generic [ref=e484]:
+                  - paragraph [ref=e485]: Frieren
+                  - generic [ref=e486]:
+                    - generic [ref=e487]: Fantasy
+                    - generic [ref=e488]:
+                      - img [ref=e489]
+                      - text: 12.4k
+              - generic [ref=e494]:
+                - button "Add to Library" [ref=e495] [cursor=pointer]:
+                  - img [ref=e496]
+                  - text: Add to Library
+                - button [ref=e498] [cursor=pointer]:
+                  - img [ref=e499]
+            - generic [ref=e503]:
+              - img "Dandadan" [ref=e504]
+              - generic [ref=e507]: 95%
+              - generic [ref=e508]:
+                - paragraph [ref=e509]: Dandadan
+                - generic [ref=e510]:
+                  - generic [ref=e511]: Action
+                  - generic [ref=e512]:
+                    - img [ref=e513]
+                    - text: 8.2k
+            - generic [ref=e520]:
+              - img "Kaiju No. 8" [ref=e521]
+              - generic [ref=e524]: 92%
+              - generic [ref=e525]:
+                - paragraph [ref=e526]: Kaiju No. 8
+                - generic [ref=e527]:
+                  - generic [ref=e528]: Sci-Fi
+                  - generic [ref=e529]:
+                    - img [ref=e530]
+                    - text: 15.1k
+            - generic [ref=e537]:
+              - img "Oshi no Ko" [ref=e538]
+              - generic [ref=e541]: 89%
+              - generic [ref=e542]:
+                - paragraph [ref=e543]: Oshi no Ko
+                - generic [ref=e544]:
+                  - generic [ref=e545]: Drama
+                  - generic [ref=e546]:
+                    - img [ref=e547]
+                    - text: 18.7k
+            - generic [ref=e554]:
+              - img "Mashle" [ref=e555]
+              - generic [ref=e558]: 87%
+              - generic [ref=e559]:
+                - paragraph [ref=e560]: Mashle
+                - generic [ref=e561]:
+                  - generic [ref=e562]: Comedy
+                  - generic [ref=e563]:
+                    - img [ref=e564]
+                    - text: 6.9k
+        - generic [ref=e569]:
+          - generic [ref=e570]:
+            - img [ref=e571]
+            - generic [ref=e576]: Friends Activity
+          - generic [ref=e577]:
+            - generic [ref=e578]:
+              - generic [ref=e579]: A
+              - paragraph [ref=e581]: Alex started reading Frieren
+              - img [ref=e582]
+            - generic [ref=e584]:
+              - generic [ref=e585]: S
+              - paragraph [ref=e587]: Sam caught up with One Piece
+              - img [ref=e588]
+            - generic [ref=e590]:
+              - generic [ref=e591]: J
+              - paragraph [ref=e593]: Jordan recommends Dandadan
+              - img [ref=e594]
+        - generic [ref=e596]:
+          - generic [ref=e597]:
+            - img [ref=e598]
+            - generic [ref=e600]: Personalized picks
+          - generic [ref=e601]:
+            - img [ref=e602]
+            - generic [ref=e607]: See what friends read
+          - generic [ref=e608]:
+            - img [ref=e609]
+            - generic [ref=e612]: Trending now
+      - generic [ref=e617]:
+        - generic [ref=e619]:
+          - generic [ref=e622]: 🎉
+          - generic [ref=e623]: JOIN US!
+        - generic [ref=e624]:
+          - heading "Your reading journey starts here." [level=2] [ref=e625]
+          - paragraph [ref=e626]: Join thousands of manga readers who never lose their place again.
+          - link "Start Reading Free" [ref=e627] [cursor=pointer]:
+            - /url: /register
+            - img [ref=e630]
+            - generic [ref=e632]: Start Reading Free
+            - img [ref=e633]
+          - generic [ref=e635]:
+            - generic [ref=e636]:
+              - img [ref=e637]
+              - generic [ref=e639]: Instant sync
+            - generic [ref=e640]:
+              - img [ref=e641]
+              - generic [ref=e643]: Privacy first
+            - generic [ref=e644]:
+              - img [ref=e645]
+              - generic [ref=e647]: Free forever
+        - generic [ref=e648]:
+          - generic [ref=e649]:
+            - img [ref=e651]
+            - paragraph [ref=e654]: 50,000+
+            - paragraph [ref=e655]: Series Tracked
+          - generic [ref=e656]:
+            - img [ref=e658]
+            - paragraph [ref=e663]: 12,000+
+            - paragraph [ref=e664]: Active Readers
+          - generic [ref=e665]:
+            - img [ref=e667]
+            - paragraph [ref=e670]: 20+
+            - paragraph [ref=e671]: Manga Sources
+        - generic [ref=e672]:
+          - paragraph [ref=e673]: Loved by manga readers worldwide
+          - generic [ref=e674]:
+            - generic [ref=e675]:
+              - generic [ref=e676]:
+                - generic [ref=e677]: M
+                - generic [ref=e678]:
+                  - generic [ref=e679]: "@MangaFan2024"
+                  - generic [ref=e680]: ★★★★★
+              - paragraph [ref=e681]: “Finally stopped losing my place across apps! This is exactly what I needed.”
+            - generic [ref=e682]:
+              - generic [ref=e683]:
+                - generic [ref=e684]: W
+                - generic [ref=e685]:
+                  - generic [ref=e686]: "@WebtoonReader"
+                  - generic [ref=e687]: ★★★★★
+              - paragraph [ref=e688]: “The custom source feature is a game changer. Added all my niche manga sites.”
+            - generic [ref=e689]:
+              - generic [ref=e690]:
+                - generic [ref=e691]: O
+                - generic [ref=e692]:
+                  - generic [ref=e693]: "@OtakuPrime"
+                  - generic [ref=e694]: ★★★★★
+              - paragraph [ref=e695]: “Best manga tracker I've ever used. Clean, fast, and just works.”
+        - paragraph [ref=e697]:
+          - text: Already have an account?
+          - link "Sign in" [ref=e698] [cursor=pointer]:
+            - /url: /login
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e704] [cursor=pointer]:
+    - img [ref=e705]
+  - alert [ref=e708]
+```

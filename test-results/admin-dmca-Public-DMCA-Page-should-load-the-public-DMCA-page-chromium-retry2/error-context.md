@@ -1,0 +1,42 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "K" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: K
+      - generic [ref=e7]: Welcome back
+      - generic [ref=e8]: Sign in to continue to your library
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - button "Google" [ref=e12] [cursor=pointer]:
+            - img
+            - text: Google
+          - button "Discord" [ref=e13] [cursor=pointer]:
+            - img
+            - text: Discord
+        - generic [ref=e18]: or continue with email
+        - generic [ref=e19]:
+          - generic [ref=e20]: Email
+          - textbox "Email" [ref=e21]:
+            - /placeholder: you@example.com
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - generic [ref=e24]: Password
+            - link "Forgot password?" [ref=e25] [cursor=pointer]:
+              - /url: /forgot-password
+          - textbox "Password" [ref=e26]
+      - generic [ref=e27]:
+        - button "Sign in" [ref=e28] [cursor=pointer]
+        - paragraph [ref=e29]:
+          - text: Don't have an account?
+          - link "Sign up" [ref=e30] [cursor=pointer]:
+            - /url: /register
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e36] [cursor=pointer]:
+    - img [ref=e37]
+  - alert [ref=e40]
+```

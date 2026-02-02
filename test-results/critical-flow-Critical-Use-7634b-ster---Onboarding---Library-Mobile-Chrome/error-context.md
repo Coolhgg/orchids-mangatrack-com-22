@@ -1,0 +1,60 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "K" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: K
+      - generic [ref=e7]: Create an account
+      - generic [ref=e8]: Start tracking your manga collection today
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - img [ref=e12]
+          - generic [ref=e14]: Email address "qa-test-1770041548943@example.com" is invalid
+        - generic [ref=e15]:
+          - button "Google" [ref=e16] [cursor=pointer]:
+            - img
+            - text: Google
+          - button "Discord" [ref=e17] [cursor=pointer]:
+            - img
+            - text: Discord
+        - generic [ref=e22]: or continue with email
+        - generic [ref=e23]:
+          - generic [ref=e24]: Username
+          - textbox "Username" [ref=e25]:
+            - /placeholder: manga_reader
+            - text: qauser_z707g
+          - paragraph [ref=e26]: Lowercase letters, numbers, and underscores only (3-20 chars)
+        - generic [ref=e27]:
+          - generic [ref=e28]: Email
+          - textbox "Email" [ref=e29]:
+            - /placeholder: you@example.com
+            - text: qa-test-1770041548943@example.com
+        - generic [ref=e30]:
+          - generic [ref=e31]: Password
+          - textbox "Password" [ref=e32]: Password123!
+          - generic [ref=e33]:
+            - generic [ref=e34]:
+              - img [ref=e35]
+              - generic [ref=e37]: At least 8 characters
+            - generic [ref=e38]:
+              - img [ref=e39]
+              - generic [ref=e41]: One uppercase letter
+            - generic [ref=e42]:
+              - img [ref=e43]
+              - generic [ref=e45]: One number
+      - generic [ref=e46]:
+        - button "Create account" [ref=e47] [cursor=pointer]
+        - paragraph [ref=e48]:
+          - text: Already have an account?
+          - link "Sign in" [ref=e49] [cursor=pointer]:
+            - /url: /login
+        - paragraph [ref=e50]: By creating an account, you agree to our Terms of Service and Privacy Policy.
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e56] [cursor=pointer]:
+    - img [ref=e57]
+  - alert [ref=e60]
+```

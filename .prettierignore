@@ -1,0 +1,11 @@
+.next
+node_modules
+dist
+build
+coverage
+playwright-report
+load-tests/results
+*.min.js
+*.min.css
+package-lock.json
+pnpm-lock.yaml
